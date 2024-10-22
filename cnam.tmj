@@ -454,6 +454,39 @@
          "y":0
         }, 
         {
+         "draworder":"topdown",
+         "id":17,
+         "name":"songs",
+         "objects":[
+                {
+                 "height":380,
+                 "id":1,
+                 "name":"",
+                 "properties":[
+                        {
+                         "name":"audioVolume",
+                         "type":"float",
+                         "value":0.2
+                        }, 
+                        {
+                         "name":"playAudio",
+                         "type":"string",
+                         "value":".\/bg.wave"
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":548,
+                 "x":398,
+                 "y":76
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
+        }, 
+        {
          "id":15,
          "layers":[
                 {
@@ -504,8 +537,8 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":17,
- "nextobjectid":1,
+ "nextlayerid":18,
+ "nextobjectid":2,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.11.0",
